@@ -2,6 +2,7 @@
 This is a repo to gather some info about Proton.VPN.Native.Host
 This content is set to Public for eductationnal purposes, I am not responsible, do whatever.
 Please note that I am doing this to learn reverse engineering and I am in no way shape or form a professional about this matter, just a student.
+Also my English might be far from perfect.
 
 
 # Overview
